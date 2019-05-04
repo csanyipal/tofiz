@@ -56,59 +56,75 @@ Az mb1 a versenyző bokájára lesz erősítve egy tépőszalaggal; ezt műszaki
 In detail - Детаљно - Részletesen
 ---------------------------------
 The competitor occupies a position behind the start line and is on standby.<br>
-
+Такмичар заузима позицију иза стартне линије и налази се у стању приправности.<br>
+A versenyző helyet foglal a startvonal mögött, és készenlétbe helyezkedik.<br>
 
 The Chief Judge stands beside him with mb1, his finger on its A button.<br>
+Главни судија стоји поред њега са прстом на дугмету А уређаја мб1.<br>
+A főbíró ott áll mellette, kezében az mb1-gyel, ujjával annak A gombján.<br>
 
-
-When the Chief Judge see that the competitor is ready to start, he will count three to one: three, two, one, and at the moment he will press the button of mb1 A.<br>
-
+When the Chief Judge see that the competitor is ready to start, he will count three to one: "three, two, one", and at that moment he will press the button of mb1 A.<br>
+Када види да је такмичар спреман за старт, он ће бројати три до један овако: три, два, један, и тренутно ће притиснути дугме А на уређају мб1.<br>
+Amikor látja, hogy a versenyző indulásra kész, akkor elszámol háromtól egyig így: három, kettő, egy - és ebben a pillanatban megnyomja az mb1 A gombját.<br>
 
 The competitor can only start at the moment after the word 'one' of the chief judge.<br>
+Такмичар може да стартује само у тренутку кад чује реч "један" главног судије после речи "три, два".<br>
+A versenyző abban a pillanatban indulhat csak el, amiután elhangzott a főbíró szájából az egy szó a három és kettő után.<br>
 
 
 The competitor must first step out with a leg that doesn't have a microbit named mb2 attached to the tape.<br>
-
+Такмичар мора прво да иступи са ногом која нема микробит под именом мб2 причвршћен на свом глежњу.<br>
+A versenyzőnek azzal a lábával kell kilépnie először, amelyiken nincs tépőszalaggal fölerősítve az mb2 nevű microbit.<br>
 
 This is needed to count the number of steps correctly.<br>
+Ово је потребно за правилно бројање корака.<br>
+Erre a lépések számának helyes megszámlálása miatt van szükség.<br>
 
-
-If the Chief Judge has noticed that the competitor has not departed, he will blow off the start and repeat the start of the competitor.<br>
-
-
-This can be repeated only once.<br>
-
+If the Chief Judge has noticed that the competitor has not departed, he will blow off the start and repeat, but only this time the start of the competitor.<br>
+Ако је главни судија приметио да такмичар није правилно стартовао, он ће поновити старт тог такмичара али само једанпут.<br>
+Ha a főbíró észrevette, hogy a versenyző nem így lépett ki, akkor lefújja az indulást, és még egyszer megismételheti a versenyző indítását.<br>
 
 The competitor tries to walk as quickly as possible to the finish line.<br>
-
+Такмичар покушава да што брже хода до циља.<br>
+A versenyző igyekszik minél gyorsabban gyalogolni a célvonalig.<br>
 
 It is assumed that even the fastest competitor does not make this distance in less than ten seconds.<br>
-
+Претпоставља се да ни најбржи такмичар не савлада ову удаљеност за мање од десет секунди.<br>
+Föltételezzük, hogy a leggyorsabb versenyző sem teszi meg e távot tíz másodpercnél rövidebb idő alatt.<br>
 
 The competitor slows down after the finish line and stops.<br>
-
+Такмичар успорава након проласка циља и зауставља се.<br>
+A versenyző a célvonal után lelassul, majd megáll.<br>
 
 mb2, which is attached to the competitor's ankle, receives a signal on the radio after pressing the mb1 button A,
 that time measurement has started.<br>
 
+A versenyző bokájára erősített mb2 az indulás pillanatában az mb1 A gombjának lenyomása után rádión kap egy jelet,
+hogy az idő mérése elkezdődött.<br>
 
 After receiving this signal, mb2 starts to measure the time for ten seconds.<br>
 
+E jel megkapása után az mb2 elkezdi mérni az időt tíz másodpercig.<br>
 
 During this time, count the steps taken by the competitor.<br>
-
+Ezen idő alatt számolja a versenyző által megtett lépéseket.<br>
 
 The mb2 measures every second step.<br>
 
+A versenyző minden második lépését számolja így meg.<br>
 
 mb2 sends the number of steps to mb1 after ten seconds expired, but before sending it multiplies by two the number of steps.<br>
 
+Az mb2 a tíz másodperc letelte után rádiójellel az mb1-nek elküldi a lépések számát, de előtte megszorozza kettővel.<br>
 
 mb1 converts the number of steps received into meters and then divides them by ten, so you get the speed of the competitor.<br>
 
+mb1 a kapott lépések számát átalakítja méterekbe, majd elosztja tízzel, így megkapva a versenyző sebességét.<br>
 
 The judge dictates this value to the person who writes it to the competition table.<br>
 
+A főbíró ezen értéket bediktálja annak a személynek, aki azt a versenytáblázatba írja.<br>
 
 The competitor comes back to the start line, where they remove mb2 from their ankles, and put on the new competitor's ankle.<br>
 
+A versenyző visszajön a startvonalhoz, ahol leveszik a bokájáról az mb2-őt, és az új versenyző bokájára erősítik.<br>
