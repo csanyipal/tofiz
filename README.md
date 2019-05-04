@@ -98,33 +98,34 @@ A versenyző a célvonal után lelassul, majd megáll.<br>
 
 mb2, which is attached to the competitor's ankle, receives a signal on the radio after pressing the mb1 button A,
 that time measurement has started.<br>
-
+МБ2, који је причвршћен за глежањ такмичара, прима сигнал на радију о томе да је мерење времена почело након притиска тастерa А на уређају мб1.<br>
 A versenyző bokájára erősített mb2 az indulás pillanatában az mb1 A gombjának lenyomása után rádión kap egy jelet,
 hogy az idő mérése elkezdődött.<br>
 
 After receiving this signal, mb2 starts to measure the time for ten seconds.<br>
-
+По пријему овог сигнала, мб2 почиње да мери време до десет секунди.<br>
 E jel megkapása után az mb2 elkezdi mérni az időt tíz másodpercig.<br>
 
 During this time, count the steps taken by the competitor.<br>
+За то време броји кораке које је направио такмичар.<br>
 Ezen idő alatt számolja a versenyző által megtett lépéseket.<br>
 
 The mb2 measures every second step.<br>
-
+Тако броји сваки други корак такмичара.<br>
 A versenyző minden második lépését számolja így meg.<br>
 
 mb2 sends the number of steps to mb1 after ten seconds expired, but before sending it multiplies by two the number of steps.<br>
-
+После истека од десет секунди мб2 шаље преко радија број корака уређају мб1, али га претходно помножи за два.<br>
 Az mb2 a tíz másodperc letelte után rádiójellel az mb1-nek elküldi a lépések számát, de előtte megszorozza kettővel.<br>
 
 mb1 converts the number of steps received into meters and then divides them by ten, so you get the speed of the competitor.<br>
-
+мб1 конвертује број корака примљених у метре и затим их дели на десет да би добио брзину такмичара.<br>
 mb1 a kapott lépések számát átalakítja méterekbe, majd elosztja tízzel, így megkapva a versenyző sebességét.<br>
 
 The judge dictates this value to the person who writes it to the competition table.<br>
-
+Судија диктира ову вредност особи која тај податак уписује у табелу такмичења.<br>
 A főbíró ezen értéket bediktálja annak a személynek, aki azt a versenytáblázatba írja.<br>
 
 The competitor comes back to the start line, where they remove mb2 from their ankles, and put on the new competitor's ankle.<br>
-
+Такмичар се враћа на стартну линију, где скида мб2 са свог глежња и уређај се причвршћује је за глежањ новог такмичара.
 A versenyző visszajön a startvonalhoz, ahol leveszik a bokájáról az mb2-őt, és az új versenyző bokájára erősítik.<br>
