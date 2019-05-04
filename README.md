@@ -127,5 +127,5 @@ The judge dictates this value to the person who writes it to the competition tab
 A főbíró ezen értéket bediktálja annak a személynek, aki azt a versenytáblázatba írja.<br>
 
 The competitor comes back to the start line, where they remove mb2 from their ankles, and put on the new competitor's ankle.<br>
-Такмичар се враћа на стартну линију, где скида мб2 са свог глежња и уређај се причвршћује је за глежањ новог такмичара.
+Такмичар се враћа на стартну линију, где скида мб2 са свог глежња и уређај се причвршћује је за глежањ новог такмичара.<br>
 A versenyző visszajön a startvonalhoz, ahol leveszik a bokájáról az mb2-őt, és az új versenyző bokájára erősítik.<br>
