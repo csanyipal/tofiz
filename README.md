@@ -49,9 +49,9 @@ mb1 will be the judge, mb2 at the competitor.<br>
 Мб1 ће бити код главног судије, мб2 на такмичару.<br>
 A mb1 lesz a bírónál, a mb2 a versenyzőnél.<br>
 
-mb1 will be attached to a competitor's ankle with a tear tape; this is done by students in a technical group.<br>
-Мб1 ће бити причвршћен за глежањ такмичара са сузном траком; то ће направити студенти на секцији из техничког образовања.<br>
-Az mb1 a versenyző bokájára lesz erősítve egy tépőszalaggal; ezt műszaki csoporton készítik el a tanulók.<br>
+mb2 will be attached to a competitor's ankle with a tear tape; this is done by students in a technical group.<br>
+Мб2 ће бити причвршћен за глежањ такмичара са сузном траком; то ће направити студенти на секцији из техничког образовања.<br>
+Az mb2 a versenyző bokájára lesz erősítve egy tépőszalaggal; ezt műszaki csoporton készítik el a tanulók.<br>
 
 In detail - Детаљно - Részletesen
 ---------------------------------
