@@ -129,3 +129,9 @@ A főbíró ezen értéket bediktálja annak a személynek, aki azt a versenytá
 The competitor comes back to the start line, where they remove mb2 from their ankles, and put on the new competitor's ankle.<br>
 Такмичар се враћа на стартну линију, где скида мб2 са свог глежња и уређај се причвршћује је за глежањ новог такмичара.<br>
 A versenyző visszajön a startvonalhoz, ahol leveszik a bokájáról az mb2-őt, és az új versenyző bokájára erősítik.<br>
+
+Implementation - Имплементација - Megvalósítás
+----------------------------------------------
+It is important for users to receive feedback on the 5x5 LED display which microbit they are holding.<br>
+Важно је да корисници добију повратну информацију на 5x5 LED дисплеју који микроби држе у руци.<br>
+Fontos, hogy a fölhasználók visszajelzést kapjanak az 5x5 LED kijelzőn, hogy éppen melyik microbit-et tartják a kezükben.<br>
