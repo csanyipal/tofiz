@@ -136,6 +136,6 @@ It is important for users to receive feedback on the 5x5 LED display which micro
 Важно је да корисници добију повратну информацију на 5x5 LED дисплеју који микробит држе у руци.<br>
 Fontos, hogy a fölhasználók visszajelzést kapjanak az 5x5 LED kijelzőn, hogy éppen melyik microbit-et tartják a kezükben.<br>
 
-It is also worth knowing what mb1 or mb2 is doing; we have to write this with some sign on the 5x5 LED display of mb1 and mb2.
-Такође је потребно знати шта ради mb1 или mb2; морамо ово исписати са неким знаком на 5x5 LED дисплеју на мб1 и мб2.
-Azt is érdemes tudnunk, hogy az mb1, vagy mb2 éppen mit csinál; ezt is ki kell írnunk valamilyen jellel az mb1, és mb2 5x5 LED kijelzőjére.
+It is also worth knowing what mb1 or mb2 is doing; we have to write this with some sign on the 5x5 LED display of mb1 and mb2.<br>
+Такође је потребно знати шта ради mb1 или mb2; морамо ово исписати са неким знаком на 5x5 LED дисплеју на мб1 и мб2.<br>
+Azt is érdemes tudnunk, hogy az mb1, vagy mb2 éppen mit csinál; ezt is ki kell írnunk valamilyen jellel az mb1, és mb2 5x5 LED kijelzőjére.<br>
