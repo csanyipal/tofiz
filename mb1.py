@@ -2,13 +2,12 @@
 # programiranje mb1
 
 from microbit import *
-# import radio
+import radio
 
 # A rádió címzésének, csoportjának, és erejének beállítása.
 # Podešavanje adrese, grupe i jačine za radio.
-# radio.config(address="tofiz")
-# radio.config(group=0)
-# radio.config(power=7)
+radio.config(group=0)
+radio.config(power=7)
 
 # Reszet, vagy a microbit bekapcsolása után.
 # Posle uključivanja ili resetovanja mikrobita.
@@ -23,11 +22,6 @@ while True:
         # treba prikazati "Go!" tekst,
         # pa "A" slovo i najzad "<-" sliku.
         # Takmičar može krenuti!
-        display.scroll("Go!")
-        display.show("A")
-        sleep(500)
-        display.show(Image.ARROW_W)
-        sleep(500)
         break
     else:
         # Különben mutassa az "MB1" szöveget,
@@ -53,13 +47,20 @@ while True:
         # poslat mb2 mikrobitu posle pritiska dugmeta A na mb1.
         # Takođe šalje taj signal.
         display.show("R")
-#        radio.on()
-#        radio.send("s")
+        radio.on()
+        radio.send("started")
+        radio.off()
         break
     else:
         # Jelzi, hogy le kell nyomni az A gombot.
         # Prikazuje A što znači da treba pritisnuti dugme A.
+        # Takmičar može krenuti!
+        display.scroll("Go!")
         display.show("A")
         sleep(500)
         display.show(Image.ARROW_W)
         sleep(500)
+
+# Várnia kell, hogy mb2 elküldhesse a lépések számát.
+# 5 másodpercet vár.
+sleep(5000)
